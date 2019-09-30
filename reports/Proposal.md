@@ -34,3 +34,7 @@ This dataset has been used in multiple public studies including the following th
 # Preprocessing
 
 Since data is already in tidy format, it has only numerical features and no missing values we only need to apply a suitable scalling to each feature. Since all features have rather small and predictable range, we can apply min-max scaler to all of them. So in the preprocessed we have 12 features, including the target feature.
+
+# Github
+
+Please find all the relevant files in [this repository](https://github.com/marklin36/1030-final-project.git).
