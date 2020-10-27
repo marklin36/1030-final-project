@@ -23,7 +23,7 @@ colorama==0.4.1
 conda==4.7.10
 conda-package-handling==1.4.1
 coverage==4.5.4
-cryptography==2.7
+cryptography==3.2
 cycler==0.10.0
 Cython==0.29.13
 cytoolz==0.10.0
