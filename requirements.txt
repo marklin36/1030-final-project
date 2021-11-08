@@ -69,7 +69,7 @@ jupyter-core==4.4.0
 jupyter-rsession-proxy==1.0.dev0
 jupyter-server-proxy==1.1.0
 jupyter-vscode-proxy==0.1
-jupyterhub==1.0.0
+jupyterhub==1.5.0
 jupyterlab==1.1.1
 jupyterlab-dash==0.1.0a3
 jupyterlab-git==0.8.1
